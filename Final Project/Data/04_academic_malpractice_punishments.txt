@@ -1,0 +1,39 @@
+SOURCE: IIT Bombay Disciplinary Actions for Acts of Academic Malpractice (April 16, 2015)
+URL: https://www.iitb.ac.in/newacadhome/punishments201521July.pdf
+
+OVERVIEW
+Disciplinary action is decided by the Departmental Academic Disciplinary Action Committee (D-ADAC) for acts warranting up to a DX/FR grade, and by the institute-level Academic Disciplinary Action Committee (ADAC) for more serious acts.
+
+1. IMPERSONATION / FORGING SIGNATURES
+- Signing attendance for another student: DX grade for the student who signed for someone else.
+- Leaving class after marking attendance: warning on first offense; FR grade on a second violation.
+- Impersonating another student during an exam: suspension for one semester.
+- Tampering with official documents (grade sheets, medical certificates, etc.): FR grade in the course plus suspension for one semester.
+- Forging faculty/staff signatures: suspension for one year.
+
+2. COPYING IN ASSIGNMENTS / LAB PROJECTS
+A student caught copying a home assignment, programming assignment, or lab project receives a zero on that item plus an additional one-grade penalty in the course. The same penalty applies to both the copier and the student whose work was copied — unless the material was obtained through hacking or similarly nefarious means, in which case the original student may not be penalized.
+
+3. COPYING IN EXAMINATIONS
+- Verbal communication during an exam, with only an invigilator's note as evidence: loss of one grade. If there is stronger evidence (e.g., identical answers): FR grade.
+- Passing chits or other unauthorized material to another student: FR grade.
+- Mobile phone found in possession (unused) after the exam starts: loss of one grade. If actually used: FR grade.
+- Carrying other unauthorized material (chits, tablets, calculators, scribbled notes on the body, prohibited internet use): FR grade — mere possession is sufficient.
+- Copying detected during answer-script evaluation (matching another student's answers): FR grade for both students involved.
+- Making unauthorized changes to a valued/graded answer script: FR grade.
+- Using a phone, chits, or books during a toilet break while the exam is ongoing: FR grade plus suspension for one semester.
+
+4. REPEAT OFFENCES
+Any repeat offence is escalated to the ADAC, and the standard penalty is suspension for one semester.
+
+5. PLAGIARISM IN INTERNAL REPORTS
+- Reproducing web/text material without citation in a Seminar report: penalty ranges from a warning (if judged unintentional) up to loss of two grades in the Seminar.
+- Same issue in a Project report: minimum penalty is loss of one grade; maximum is an FR grade.
+- Serious cases (fabricating experimental results, falsely claiming original content in an M.Tech./M.Phil./Ph.D. thesis): referred to the ADAC, with a minimum penalty of one year's suspension.
+- Exceptional cases go to the Apex Committee, which can terminate registration (with or without an exit degree) or, for a Ph.D. thesis already awarded, recommend withdrawal of the degree.
+
+6. MISCONDUCT BY TEACHING ASSISTANTS (TAs)
+A TA found helping students cheat — e.g., inflating marks deliberately or tampering with mark-sheets/answer-books — is suspended for one semester without stipend during that period.
+
+PROCESS NOTE (from the companion "Procedures" document)
+An instructor reporting malpractice notifies the Head of the Academic Unit, who refers it to the D-ADAC. The D-ADAC (or DUGC/DPGC/IDPC acting in that role) reviews evidence, may call a joint meeting with the instructor and student, and recommends action to the Dean (Academic Programmes) for approval. More serious cases go to the ADAC, whose decision is forwarded by the Dean (AP) to the Director. If evidence is unclear, the benefit of the doubt goes to the student. Students are allowed one appeal against a D-ADAC or ADAC decision.

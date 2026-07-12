@@ -1,0 +1,25 @@
+SOURCE: IIT Bombay Academic Office — Convocation Form Submission Procedure (Official circular, illustrated using the 59th Convocation cycle; the process structure is reused for each subsequent convocation)
+URL: https://www.iitb.ac.in/newacadhome/ConvocationProcedure.pdf
+
+WHO NEEDS TO SUBMIT
+All students (UG/PG/PhD) likely to complete their degree requirements by the relevant cutoff date (typically around July, ahead of an August convocation) must submit a completed Convocation Form by the announced deadline. Only students who submit the form by that deadline are included for award of degrees in that year's convocation — late submissions are not carried over automatically and may have to wait for the next convocation cycle.
+
+STEP-BY-STEP PROCESS
+1. Log in to the external ASC portal (portal.iitb.ac.in/asc) and locate the "Convocation Fees" and "Convocation Form" links.
+2. Pay the Convocation Fee (a nominal amount, e.g. Rs 500) online via net banking or card before the form can be filled — payment is a prerequisite for accessing the form.
+3. On successful payment, proceed immediately to the Convocation Form link.
+4. Fill in required details, including an optional "Name in Hindi" field (auto-transliterated by typing the English name and pressing space; can be manually corrected to match official records).
+5. Submit to generate a pre-populated printable version of the form.
+6. Print, sign, scan, and upload the signed form back through the "Upload Signed Convocation Form" section (remarks/comments can be added at this step).
+
+DUES AND DOCUMENT ISSUANCE
+Filling the Convocation Form does not by itself guarantee issuance of the degree certificate. It is the student's own responsibility to clear all outstanding dues before the convocation — with the Academic Unit, Library, Accounts/Student Accounts Unit (SAU), Hostel/Hostel Coordination Unit (HCU), Gymkhana, and Estate Office — since unresolved dues will block the release of the final degree certificate even after the form is submitted.
+
+NATIONAL ACADEMIC DEPOSITORY (NAD)
+Graduating students are advised to register on the National Academic Depository (NAD) — ideally with their Aadhaar number linked — since transcripts and final degree certificates are uploaded to the NAD portal after no-dues clearance, and registering with Aadhaar allows faster, smoother upload without manual verification delays. Students unable to link Aadhaar can alternatively email their NAD registration form to the Academic Office for manual registration.
+
+RELATED GRADUATION FORMALITIES (typical sequence, per student-body guidance corroborated by Academic Office circulars)
+- Final ("second") course retagging window, during which graduating students must freeze their course tags even if unchanged, to be considered for graduation.
+- Electronic Thesis Dissertation (ETD) submission via the Central Library portal — required for Dual Degree and M.Tech. students, ideally 7 days before the thesis presentation/defence (exact deadline set by mutual agreement between student and guide).
+- Provisional Certificate: obtainable via the External ASC portal once tags are frozen and departmental graduation status is approved; useful for job/visa applications while the final degree certificate is pending.
+- Final Transcript: available for a nominal fee (e.g. Rs 500) via the ASC payment portal, for students who need it for further study/employment applications.

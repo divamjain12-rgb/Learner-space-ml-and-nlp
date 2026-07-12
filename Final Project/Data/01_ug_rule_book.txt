@@ -1,0 +1,88 @@
+SOURCE: IIT Bombay Rules & Regulations for Undergraduate Programmes (Updated June 2025)
+URL: https://acad.iitb.ac.in/files/UG_RULE_BOOK.pdf
+
+INDIAN INSTITUTE OF TECHNOLOGY BOMBAY
+Rules & Regulations for Undergraduate Programmes
+Applicable to the B.Tech., B.S., B.Des., Dual Degree students admitted from the Academic Year 2007-2008
+Updated: June, 2025
+
+PREFACE
+The Indian Institute of Technology Bombay (IITB) is one of the Indian Institutes of Technology in the country, set up with the objective of conducting research, imparting education, and training in various fields of Science and Technology. IIT Bombay follows a credit-based semester system. There are two semesters in an academic year (Autumn: July-Nov; and Spring: January-April) during which all courses specified for various degree programmes are offered. There is one additional term during summer, called the Summer Term, for summer courses.
+
+1. INTRODUCTION
+The B.Tech./Dual Degree/B.S. programmes consist of courses in basic sciences, humanities and social sciences, engineering and technology and other related topics. The sequence of studies broadly consists of three phases: an intense study of sciences, mathematics and humanities; study of engineering sciences and technical arts; and exposure to subjects in the chosen area of study.
+
+1.1 Organizational Structure for Academic Administration
+The academic programmes are governed by Rules and Regulations approved by the Senate. The Senate is a statutory and supreme body that governs all academic matters, and the rulings of the Senate Chairperson (Director) are final on academic issues. Two Institute-level Senate sub-committees oversee curriculum: the Undergraduate Programmes Committee (UGPC) and Post-Graduate Programmes Committee (PGPC), chaired by the Dean of Academic Programmes (Dean, AP) and Associate Dean (AP). Performance and evaluation issues are monitored by the Undergraduate Academic Performance Evaluation Committee (UGAPEC) and Postgraduate Academic Performance Evaluation Committee (PGAPEC). At the department level, the Department Undergraduate Committee (DUGC) and Department Postgraduate Committee (DPGC) handle academic matters, chaired by the Head of Department. Each student is assigned a Faculty Adviser from their department.
+
+1.2 Academic Calendar
+Academic activities are regulated by the Academic Calendar approved by the Senate and released at the start of each academic year. It is mandatory for students and faculty to adhere to it strictly.
+
+2. CURRICULUM / PROGRAMME OF STUDY
+2.2 Semester system: Autumn Semester (July-Nov, Semester 1), Spring Semester (Jan-April/May, Semester 2), and Summer Term (May-June).
+2.3 Course Credit Structure: Credit (C) = 2xL + 2xT + P, where L=lecture hours/week, T=tutorial hours/week, P=practical hours/week.
+2.3.3 Seminars typically carry 3 credits, requiring a literature survey and written report presented to a faculty committee.
+2.3.4 Projects: B.Tech. Project (BTP) may be a single 12-credit unit or split into BTP-I and BTP-II (6 credits each). B.S. Project carries 6+ credits. Dual Degree Project (DDP) spans 14 months (two stages) and carries 72 credits total.
+2.3.4.1 NCC/NSO/NSS: one of these three is mandatory for degree award, evaluated Pass(PP)/Not-Pass(NP), no credits.
+2.4 Minimum credits for B.Tech./B.S./B.Des. degree: 266-282 (till 2021 batch), split roughly: Basic Sciences (60-62), Engineering Sciences & Skills (30), HSS Electives (12), Institute Electives (12), Departmental courses (152-168).
+2.5 Minor: earned via 30 credits in a discipline other than the major; allotted based on highest CPI; mentioned on degree certificate and transcript.
+2.5.2 Honours: earned via 24 extra credits in own discipline; mentioned on degree certificate; not indicative of class.
+2.5.3 Students may pursue more than one minor, or a Minor + Honours combination, with faculty adviser consultation due to overload risk.
+
+3. ROLE OF THE FACULTY ADVISER
+Guides students on rules/regulations, approves registration, advises on course load/drop, monitors weak students, recommends semester drops through DUGC/UGAPEC, and warns students that failing to register without approval can lead to studentship cancellation.
+
+4. REGISTRATION
+4.1-4.2: Registration is mandatory each semester per Academic Calendar dates; done online via Course Registration Form (CRF), approved by Faculty Adviser. Students with outstanding dues cannot register. Late registration permitted till a date in the Academic Calendar, with a late fee.
+4.3 Institute Elective: any credit course outside the student's own academic unit, not core/departmental elective in their programme.
+4.6 Course Adjustment/Dropping: Course Adjustment allowed ~1 week after semester start (add/remove courses within credit limits). Course dropping (with min. 18 credits maintained) permitted till 20-30 days after mid-semester exam.
+4.7 Dropping a Semester: possible with DUGC/UGAPEC approval for severe health issues (medical certificate needed) or valid personal reasons; not permitted after DX/II grade award or semester-end exam; typically capped at one year continuous break.
+4.9 Summer Term Registration: max 27 credits (29 for students completing degree that summer); course must run with min. 5 students registered; 80% attendance mandatory.
+4.10 Minimum 5 students required to run a Department/Institute Elective course (exception: Minor courses can run for even 1 student).
+
+5. SPECIAL FEATURES IN REGISTRATION
+5.1 Academic Standing / Categories (based on CPI and outstanding FR/DX/DR/W grades in core courses):
+- Category I: CPI >= 8, no outstanding FR/DX/DR/W in core course.
+- Category II: CPI < 8, no outstanding FR/DX/DR/W in core course.
+- Category III: at least one outstanding FR/DX/DR/W in core courses, at most one FR/DX in other courses (over 2 preceding semesters), min 18 credits/semester earned.
+- Category IV: at least one outstanding FR/DX/DR/W in core, more than one FR/DX in other courses.
+- Category V: did not earn at least 18 credits in at least one of the previous two regular semesters.
+- Category VI (ARP): accumulated FR/DX worth 36+ credits in core courses; supersedes all other categories.
+5.2 Permissible Registration Load (max credits per semester):
+- Category I: 54 credits
+- Category II, III, IV: 48 credits
+- Category V: 36 credits
+- Category VI (ARP): 24 credits
+Minimum registration: 18 credits/semester (unless near degree completion).
+5.4 Audit Course: max 2 audits allowed for entire UG programme; only Category I/II students may audit in a regular semester; grade "AU", zero grade points, not counted in SPI/CPI, not usable for Minor/Honours.
+5.5 UG students may register for PG-level courses from the 5th semester onward with instructor/adviser approval.
+5.9 Attendance: Missing any of the first 3 lectures of a course can lead to de-registration from that course. 100% attendance is expected.
+
+6. EXAMINATION / ASSESSMENT
+6.1 Theory course evaluation: in-semester weightage typically 50-60% (mid-sem exam ~25-30%, quizzes/tests/assignments/viva make up the rest, up to 20% may be for attendance/participation); semester-end exam typically 40-50% weightage, ~3 hours, covers full syllabus.
+6.2 Laboratory courses: in-semester work ~75%, semester-end test ~25%.
+6.5 Grading scale and grade points: AP=10 (exceptional, capped at 2% of a large class), AA=10, AB=9, BB=8, BC=7, CC=6, CD=5, DD=4 (all passing); FR=0 (fail, repeat); FF=0 (fail, one re-exam chance, capped at DD); DX=0 (dropped due to inadequate attendance, below 80%); W=course withdrawn; AU=audit satisfactory; PP/NP=pass/not-pass for non-graded courses; II=incomplete (placeholder); DR=dropped (placeholder). Passing range is AP to DD (or AU for audit courses); FR and DX are fail grades.
+6.8.1 SPI (Semester Performance Index) = weighted average of grade points (weighted by credits) for that semester; FR-graded courses count as zero in the numerator.
+6.8.2 CPI (Cumulative Performance Index) = weighted average across all semesters to date; recalculated once backlog courses are cleared (old FR/fail contributions removed once passed).
+6.8.4 Transcript records every course taken, including FR/DX/W grades, since Autumn 2016-17; shows two CPIs (Courses only, and Courses+Project).
+6.12 PwD students get compensatory time in exams (minimum 20 minutes/hour if using scribe/reader; minimum 1 extra hour for benchmark disability without scribe, for a 3-hour exam).
+
+7. NPTEL/SWAYAM COURSES
+Regular students: max 12 credits of NPTEL/SWAYAM in lieu of dept/institute electives. ARP/extension-year students: max 24 credits. 12-week NPTEL course ~ 6 credits (occasionally 8); 8-week course ~ 3-4 credits.
+
+8. CHANGE OF BRANCH
+Branch change into JOSAA-administered branches was eliminated by the Senate (256th meeting), applicable to students admitted via JEE (Advanced) 2023 onwards. Conversion to the LASE (Liberal Arts, Sciences and Engineering) programme via branch change remains available: students apply after 2 semesters, need "eligibility-CPI" >= 7.0 (based on specific 1st-year courses), and are ranked using "Branch-Change-CPI" computed from specific 1st-year theory courses (Physics, Chemistry, Maths, Biology, CS101). Branch change can be effected only once, at the start of the second academic year, and decisions are final.
+
+9. PERFORMANCE REQUIREMENTS
+9.1 Degree conferred at annual convocation once all prescribed courses, NSS/NSO/NCC, seminars/projects are completed, all dues paid, and no pending indiscipline case.
+9.3 Academic Rehabilitation Programme (ARP): students with FR/DX in 36+ core credits are transferred here; assisted by an ARP Faculty Adviser; capped at 24 credits/semester; return to regular status once FR/DX credits drop below 36; termination considered after 3 consecutive semesters without exiting ARP.
+9.4 Exit Degree option: after completing min. 160 credits (incl. ES200, HS200, and either 60 dept credits with specialization or 60 Science/Engg credits without), after at least 4 semesters (6 semester minimum duration), students can exit with a B.Sc.(Engg.) or equivalent B.A./B.Des. degree instead of continuing to B.Tech./Dual Degree completion.
+9.5 Early Exit for Dual Degree/IDDDP students: allows exiting with only the B.Tech. degree; Group I (within 4-year timeline) faces no semester penalty and retains Honours/Minor eligibility; Group II (after 4-year timeline) faces one semester penalty and loses Honours/Minor/medal eligibility.
+
+10. UNDERGRADUATE RESEARCH AWARDS (URA)
+URA01 (preliminary research, any UG year, no credits, grade PP, awarded once), URA02 (exceptional BTP work, 6 credits with AA grade, not for DD students, requires min 12 BTP credits), URA03 (exceptional DDP work, 6 credits with AA grade).
+
+11. ACADEMIC REHABILITATION PROGRAMME (ARP) — see also Section 9.3 above. ARP acts as a buffer for students with poor academic performance to continue and complete their degree.
+
+14. INTERDISCIPLINARY DUAL DEGREE PROGRAMME (IDDDP)
+General eligibility: apply at end of 6th semester; CPI >= 7.5 at that point; no FR/DR/DX/W in mandatory courses. Department-specific criteria vary (e.g., SJMSOM requires CPI 7.0 + interview; CMInDS requires CPI > 8.0 and 2 AI/DS minor courses; Mathematics requires CPI > 8.0 and specific course completions; Statistics requires CPI >= 8 and MA403 completion). Curriculum is generally 12 credits/semester in years 3-4 plus a 72-credit Dual Degree Project spread over the final two semesters, totaling 120 credits beyond the base B.Tech.

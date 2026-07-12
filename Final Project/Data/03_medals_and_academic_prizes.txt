@@ -1,0 +1,25 @@
+SOURCE: IIT Bombay Rules for Award of Medals and Academic Prizes for UG & PG (Approved 260th Senate, 14 Feb 2024)
+URL: https://www.iitb.ac.in/newacadhome/RulesforAwardofMedalsandAcademicprizesforUGandPG.pdf
+
+1. PRESIDENT OF INDIA MEDAL (PGM)
+Awarded to the B.S./B.Tech.(with honours) or B.Tech.+M.Tech. Dual Degree/IDDDP (with honours) student with the highest CPI at the end of the 4th year, based only on mandatory credit requirements, calculated after final course re-tagging. For IDDDP, awarded in the parent department. Eligibility requires overall CPI (including honours) of 9.0 or above. Ties are broken using CPI across all courses (including additional/minor courses) up to end of 4th year.
+Disqualifying conditions for any medal: a DX/FF/FR grade in any course (any tag); an extension for the final-stage M.Tech Project (MTP); completing the programme beyond its prescribed duration; or any DAC/ADAC disciplinary punishment during the programme. Students who did courses via NPTEL/SWAYAM/Semester Exchange remain eligible for medals.
+
+2. INSTITUTE GOLD MEDAL (IGM)
+Awarded to the most outstanding student of the "other" track in the same year the President of India Medal is given to a B.Tech./B.S. (with honours) student, or vice versa for Dual Degree/IDDDP students. Discontinued for batches from 2022-23 onwards (batches through 2021-22 remain eligible). Eligibility and disqualification rules mirror the PGM (overall CPI including honours >= 9.0; same disqualifying conditions).
+
+3. INSTITUTE SILVER MEDAL (ISM)
+Awarded per academic unit across B.Tech.(honours), Dual Degree, B.S.(honours), B.Des., M.Sc., M.Tech., MPP, M.Des., MBA, MS/MA by Research, and LASE programmes, to students who complete all credit and honours requirements. Minimum overall CPI of 9.0 required (or CPI+honours CPI >= 9.0 for B.Tech./B.S.). For Masters/Dual-Degree/IDDDP programmes, a department normally needs 30+ graduating students to get its own Silver Medal; smaller departments are clubbed together, with two medals awarded if the clubbed graduating strength reaches 40+. Ties result in the medal being shared among tied students, counted as one medal. Same disqualification rules apply as for PGM/IGM. Exit degrees (e.g., BSc Engg. from B.Tech., M.Tech./MPP exit from a Dual PhD track) are not eligible. M.Eng./MDP/EMBA programmes are not eligible for any Institute medal.
+
+4. DR. SHANKAR DAYAL SHARMA GOLD MEDAL
+Awarded to the most outstanding graduating student overall, considering general proficiency, academic performance, extracurricular activities, and social service; eligibility is based on overall CPI. Same disqualification rules as other medals apply.
+
+5. DONOR'S MEDALS (examples)
+Several donor-funded medals exist for specific departments/programmes, generally tracking the Institute Silver Medal criteria for that department (e.g., Computer Science & Engineering, Civil Engineering) or the Shankar Dayal Sharma Gold Medal criteria (e.g., Sharad Maloo Gold Medal). The Hindi Vidya Bhavan Gold Medal goes to the highest-CPI student in the MBA (SJMSOM) programme; the Abhijeet Banerjee SJMSOM Silver Medal goes to the 2nd-highest CPI MBA student.
+
+6. ACADEMIC PRIZES FOR ON-ROLL STUDENTS
+Based on weighted SPI average (weighted by semester credits) of the previous academic year:
+- 2nd-year UG students (JEE-admitted): top 20 by weighted SPI average get prizes (1st prize Rs 3000, 2nd prize Rs 2000, additional prize Rs 2000).
+- 3rd/4th-year UG, B.Des. (2nd-4th year), and 5th-year Dual Degree: top 2 by weighted SPI average get prizes (1st Rs 3000, 2nd Rs 2000; if class strength is below 25, only 1st prize is given).
+- 2nd-year PG programmes (M.Sc., M.Tech., M.Des., M.Phil, MBA, MA/MS by Research, MPP): same structure as above (top 2, Rs 3000/Rs 2000).
+Minimum weighted SPI average of 9.0 is required to be eligible; academic unit must have a class strength of at least 5 students. Various dual-degree conversion programmes remain eligible for these prizes.

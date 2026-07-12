@@ -1,0 +1,40 @@
+SOURCE: IIT Bombay Rules and Regulations for the Ph.D. Programme (Academic Office, July 2025, updated 30 March 2026)
+URL: https://acad.iitb.ac.in/files/Ph.D.%20Rules.pdf
+
+1. ADMISSION AND STUDENT CATEGORIES
+Full-time categories: Teaching Assistantship (TA), Teaching Assistantship through Project (TAP), Government/Semi-Govt Fellowship (FA — QIP/CSIR/UGC/DAE/DST/DBT/NBHM), Sponsored (SW), Self-Financed (SF), Foreign Nationals with ICCR award. Part-time categories: Institute Staff (IS), Project Staff (PS), Research Assistantship (RA/RAP), External candidates sponsored by recognized R&D organizations (EX), College Teachers (CT).
+Leaving within the first 2 years without Senate permission forfeits student status with no credit weightage on readmission. Temporary withdrawal is allowed only after 2 years post-Confirmation, capped at 1 year initially (extension only in genuinely extraordinary cases per PGAPEC); not permitted after pre-synopsis presentation. Concurrent registration in another full-time PG programme (at IITB or elsewhere) triggers automatic de-registration from all IITB programmes.
+
+2. COURSE CREDIT REQUIREMENTS (vary by entry qualification)
+- M.Tech./M.Phil. entrants: 16-22 credits (2 courses + a seminar), max 4 credits via seminars.
+- M.Sc./M.A. entrants (Science discipline): 34-46 credits, max 8 credits via seminars (across 2 semesters).
+- B.Tech. entrants and M.Sc. entrants (Engineering discipline): 44-56 credits, max 8 credits via seminars; may also register for an R&D project.
+- School of Management: 40-64 credits depending on entry degree. IDC (design): 20-44 (PG design entrants) or 44-56 (UG design/other entrants) depending on prior degree.
+- Communication Skills course is compulsory (PP/NP), normally cleared within the first two semesters, in addition to the minimum credit requirement.
+- GC 101 ("Gender in the Workplace") and TA 101 (TASET) are compulsory 0-credit PP/NP courses in the first semester, common across UG/PG/PhD (with some Masters programmes and visiting students exempted from TA 101).
+- Course work should preferably finish within 1 semester (M.Tech./equivalent entrants, max 2) or 2 semesters (B.Tech./M.Sc./M.A. entrants, max 4).
+- Minimum registration load in the first semester: 18 credits (if total required is 18+); reduced-credit cases need PGAPEC approval, floor is 24 credits.
+
+3. GRADING
+Scale: AP/AA=10, AB=9, BB=8, BC=7, CC=6, CD=5, DD=4 (min. passing grade), FF=0, FR=0, PP/NP for non-graded courses, AU=0 (audit, not counted in SPI/CPI), DX=0, W=0 (withdrawn). "AP" is capped at 2% of a class of 50+ students and not given for projects/seminars. An FF grade allows one re-examination (capped at DD if passed); missing/failing it converts to FR. A student may have at most 2 FR grades (re-examination-eligible failures) during the entire programme. PhD students must maintain a minimum coursework CPI of 6.00 at the end of each semester; those with 16-22 credit requirements failing this must normally quit unless granted Academic Probation (a one-time, one-semester exercise requiring CPI >= 6.0 by the end of that semester).
+Attendance: missing any of the first 3 lectures risks de-registration from that course; DX grade applies if attendance falls below 80%.
+Audit: PG/PhD students may audit up to 2 courses per semester with instructor permission; requirements set by instructor, grade is AU or de-registration if incomplete.
+NPTEL/SWAYAM: up to 12 credits allowed toward electives (or core, if on Academic Probation); grades don't count toward SPI/CPI but do count toward credit completion and medal/prize eligibility. A 12-week course maps to ~6 credits (occasionally 8); an 8-week course to 3-4 credits.
+
+4. SUPERVISOR / RESEARCH PROGRESS COMMITTEE (RPC)
+A supervisor may have at most 5 Institute research scholars (TA/RA) at a time. The RPC (formed after coursework completion) consists of the Supervisor, Co-Supervisor (if any), and 2 other faculty conversant with the research field. Faculty with 3-5 years to superannuation must have a co-supervisor when taking a new PhD student; faculty with less than 3 years can only act as co-supervisor.
+
+5. ANNUAL PROGRESS SEMINAR (APS) AND PROGRESSION
+All PhD students must submit an Annual Progress Report and present an Annual Progress Seminar every year (Autumn joiners: July-Sept window; Spring joiners: Dec-Feb window) until pre-synopsis is completed; after 6 years (7 for Masters+PhD dual degree), presentations become biannual. Two consecutive "Unsatisfactory"/"Insufficient" APS evaluations makes the PhD registration liable for cancellation. Failure to present APS or repeat-APS without prior permission also risks cancellation.
+
+6. DURATION AND VALIDITY OF REGISTRATION
+Minimum research period before thesis submission: 4 semesters (regular students) or 6 semesters (external students) from joining/conversion. Registration validity: 6 years from joining (PhD) or 7 years from joining the Masters programme (for Masters+PhD dual degree), extendable up to a maximum of 8 years (10 years for External/College Teacher categories) via a formal extension request submitted with the APS. Registration is suo-moto cancelled after these maximum periods.
+
+7. PRE-SYNOPSIS, THESIS AND DEFENCE
+A Pre-Synopsis Seminar (before an RPC-based panel) is required before submitting synopsis/thesis; the synopsis and final thesis must be submitted within 4 months of a "Satisfactory" pre-synopsis presentation, or PhD registration is suo-moto cancelled (no repeat pre-synopsis allowed). Thesis is sent to 2 external examiners (chosen from a panel of at least 8, Scheme A, or 4, Scheme B, with a minimum number from within India). Examiner recommendations range from "accept as-is" to "reject"; two rejections mean the thesis in its current form is rejected, with one re-submission allowed after 1-2 years following a fresh pre-synopsis. The Board of Examiners for the viva-voce includes an outside-department Chairperson, the Supervisor(s), an Internal Examiner, and one external referee. Final thesis copies are due within 2 months of the defence; late submission incurs a Rs. 5000/month fine.
+
+8. ASSISTANTSHIP AND LEAVE
+Assistantship tenure: maximum 5 years. Enhancement of fellowship is assessed after 2 years via a seminar before a departmental committee. Research scholars (TA/RA/SF) get 30 days leave/year plus public holidays (accumulable up to 90 days), plus 10 medical leave days. Maternity leave: up to 180 days once during the studentship, full pay. Paternity leave: 15 days once. No summer/winter vacation is admissible for PhD scholars. Conference/seminar travel: up to 5 working days/semester with stipend, approved by Head of the Academic Unit.
+
+9. COURSE NUMBERING
+UG courses: 101-499 (or 1001-4999 if exhausted). PG (Masters) courses: 500-799 (or 5001-7999). PhD courses: 800-999. Courses common to UG and PG: 600-699. GC101 is common across UG, PG, and PhD.

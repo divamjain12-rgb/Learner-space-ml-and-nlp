@@ -1,0 +1,27 @@
+SOURCE: IIT Bombay Rules and Regulations for M.Tech./M.P.P./M.Des./MBA Programmes (Academic Office, updated 23 July 2025)
+URL: https://acad.iitb.ac.in/files/M.Tech_.%20MPP.%20M.Des_.%20MBA%20Rules_0.pdf
+
+1. PROGRAMME STRUCTURE
+M.Tech./MPP: 2-year programmes, total minimum credit requirement 156 credits + 6 credits for the compulsory Communication Skills (PP/NP) course, i.e. 156+6. One Institute Elective is mandatory for all students, taken outside their own discipline. Students may replace 6 or 12 course credits with an R&D project (distinct from the main M.Tech./MPP project) with PC approval; max 6 R&D project credits in the first semester. A "Minor" requires a minimum of 18 course credits (up to 6 of which may be an R&D project), structure set by the Programme Committee.
+M.Des.: 2-year programme (~156-160 credits depending on specialization: Industrial Design, Communication Design, Animation, Interaction Design, Mobility & Vehicle Design), heavy on design studio/project work particularly in years 2.
+MBA: 21-month full-time programme via SJM School of Management, ~133-139 total credits, largely delivered in half-semester course blocks (up to 10 courses/semester possible).
+
+2. REGISTRATION
+Same core rules as other PG programmes: mandatory registration every semester; failing to register for 2 consecutive regular semesters triggers automatic PGAPEC cancellation; concurrent registration in another full-time PG programme (at IITB or elsewhere) causes automatic de-registration from all IITB programmes. Maximum registration validity: 4 years from original registration date. Institute Electives cannot be from the student's own discipline and cannot be half-semester courses.
+Admission categories: TA/TAP/FA (2-year support), RA/RAP/PS (3-year), Institute Staff (IS), Sponsored (SW, full-time or part-time). Change of category requires PGAPEC approval; TA/RA/TAP/PA categories are assigned competitively based on a valid GATE score and generally cannot be switched to TA after admission.
+
+3. CHANGE OF PROGRAMME
+M.Tech. to PhD: allowed if SPI >= 9.00 after full first-semester coursework, applied for by end of first semester via DPGC, forwarded to PGAPEC. M.Tech. (CSE) to M.S. by Research (CSE): requires CPI >= 8 in the 1st semester with 18+ credits, TA/RAP category only, applied for between 10 Dec and 1 April with a willing faculty guide's approval.
+
+4. GRADING (same scale as UG/PhD rules)
+AP/AA=10, AB=9, BB=8, BC=7, CC=6, CD=5, DD=4 (min. pass), FF=0, FR=0, PP/NP, AU=0, DX=0, W=0. FF allows one re-examination chance (capped at DD if passed; converts to FR otherwise, or if a second FF/FR occurs). Audit: max 2 courses/semester, cannot count toward Minor/Honours requirements. "Additional Learning" tag: courses beyond the minimum requirement, doesn't affect SPI/CPI, one-time re-tag option to Elective allowed (Core courses cannot be re-tagged).
+Minimum course CPI for continuation and graduation: 4.00 (2022 batch onwards; 6.00 for earlier batches). Discontinuation triggers: 2+ FR grades in any course (M.Tech./MPP/M.Des.) or 3+ FR grades (MBA) at the end of any semester; or course CPI falling below 4.00 in any semester. Academic Probation is a one-time, one-semester opportunity requiring course-work CPI >= 4.0 by the end of that semester (excluding the dissertation/project). Reserved-category (SC/ST/PwD) students may take one fewer course per semester with faculty advisor and PGAPEC/Dean(AP) approval, and may extend into a 5th semester, though assistantships are capped at 24 months.
+
+5. PROJECT / DISSERTATION
+Project topic allotted by end of 1st semester (preferably), no later than end of 2nd (M.Tech/M.Des/MPP) or 3rd (MBA) semester. Stage I evaluated by Supervisor(s) + one Internal Examiner; Stage II (Final) by a Board including Supervisor(s), Internal Examiner, an External Examiner (or additional Internal Examiner if unavailable), and a Chairperson from another academic unit. Minimum passing grade for each project stage: DD. Failing Stage I requires re-assessment within 1 month (fine of Rs 750/week, capped at Rs 5000, for delayed presentation); failing the re-assessment requires repeating that stage completely. Final dissertation copies are due within 1 month of the defence, with a Rs 5000/month fine for late submission. Students may do their Master's project at a company for up to 2 months (summer) or one final semester, under specific IP-sharing and no-stipend conditions, but must defend the project in person on campus.
+
+6. VACATION / LEAVE
+2-year Masters students: winter vacation (December) + 15-day summer break in year 1. 3-year (part-time) Masters students: winter vacation + 15-day summer break in years 1 and 2. All Masters students: up to 30 additional leave days beyond public holidays across the whole programme. Conference/seminar travel: up to 5 working days/semester with stipend, approved by the Head of the Academic Unit.
+
+7. MISCELLANEOUS
+GC101 (Gender in the Workplace) and TA101 (TASET) are compulsory 0-credit PP/NP courses in the first semester (with some Masters programmes such as 2-Yr M.Sc., MBA, EMBA, MEng, MDP, e-PGD, and visiting students exempted from TA101). Research involving human participants requires prior IIT Bombay Institute Ethics Committee (IEC) approval — this cannot be obtained retrospectively.

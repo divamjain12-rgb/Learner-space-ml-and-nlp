@@ -1,0 +1,50 @@
+SOURCE: IIT Bombay Rules and Regulations for the 2-Year M.Sc. Programme and M.Sc.+Ph.D. (direct admission), Academic Office, updated 23 July 2025
+URL: https://acad.iitb.ac.in/files/M.Sc_.%20Rules.pdf
+
+1. ORGANIZATION
+Governed by the Senate; M.Sc. curriculum overseen by the Post-Graduate Programmes Committee (PGPC), chaired by the Dean of Academic Programmes; performance monitored by the Post-Graduate Academic Performance Evaluation Committee (PGAPEC). Each student has a Faculty Advisor.
+New PG students must submit final-year mark-sheets/provisional certificates by September (Autumn admits) or February (Spring admits); late submission requires an application with a stated due date; results are withheld (not blocked from appearing) until documents are produced.
+
+2. CURRICULUM AND CREDITS
+Courses numbered 400 or higher are PG-level. Seminars typically carry 3 credits. M.Sc. Projects (MSP-I/MSP-II) are usually done in the 3rd/4th semesters, in two stages with a preliminary report and panel presentation after stage one. Minimum credit requirement for the 2-year M.Sc. degree is 140-160 credits, depending on discipline.
+
+3. REGISTRATION
+- Students may audit up to 2 courses per semester with adviser/guide consent.
+- Registering concurrently in more than one full-time programme at IITB, or at IITB and another institution, leads to automatic de-registration from all IITB programmes.
+- Students cannot re-register for a course already passed with AU/DD or higher, except for grade improvement under Academic Probation.
+- Every student must register for at least 18 credits/semester.
+- Registration validity: maximum 4 years from original registration date.
+- Course Adjustment window: ~2 weeks after semester start, provided credits don't fall below 18.
+- Semester Drop: requires medical certificate (IITB Hospital or authenticated by its CMO) or supporting documents; not permitted after DX grade award, end of classes, semester-end exam, or grade award; capped at one continuous year off; fees are not refunded on a semester drop.
+- Grade Improvement: available if course-CPI < 4.0 (2022 batch onwards; 6.0 for earlier batches) and PGAPEC has approved continuation on Academic Probation; limited to 2 courses total, once each; the new grade (from re-registering in a later semester) replaces the old one on the transcript.
+- NPTEL/SWAYAM: up to 12 credits allowed toward elective requirements (or core requirements if on Academic Probation); grades from NPTEL/SWAYAM/Semester Exchange do not count toward SPI/CPI, only toward credit completion, but such students remain eligible for medals/prizes.
+- Suo moto cancellation: not registering for a semester without PGAPEC permission risks cancellation; failing to register for two consecutive semesters leads to automatic cancellation by PGAPEC.
+
+4. SPECIAL REGISTRATION FEATURES
+- Backlog (FF/FR) courses should be retaken at the earliest regular semester offering.
+- Re-examination for an FF grade is allowed provided the student has at most 2 FR grades; passing the re-exam caps the grade at DD.
+- Audit course: needs instructor permission, max 2 audits/semester for PG students, graded AU (zero grade points, not counted in SPI/CPI, not usable for Minor/Honours).
+- Course substitution: electives may substitute for other electives; not permitted for core courses.
+- Summer registration: Masters students can only register for summer courses under an "Additional Learning" tag (cannot later be re-tagged as Elective), except graduating-batch students clearing a mandatory-curriculum backlog.
+- GC 101 ("Gender in the Workplace"): mandatory 0-credit PP/NP course for all students, to be completed in the first semester; online, max 3 hours; degree award requires a PP grade; not mandatory for non-degree/visiting students.
+- TA 101 (TASET): mandatory Moodle-based self-training course for PG students (from 2022 batch) and UG-DD students doing TA duty; must pass to be eligible for TA-ship/fee concession.
+
+5. EXAMINATION / GRADING
+- Attendance: missing any of the first 3 lectures of a course risks de-registration; DX grade for attendance below 80% (declared ~1 week before semester-end exam; DX bars the student from that exam and is treated as FR for CPI purposes).
+- Theory course weightage: in-semester ~50-60% (one 2-hour mid-sem ~25-30%, quizzes/tests/assignments/viva for the rest, up to 10% for participation); semester-end exam ~40-50%, ~3 hours, mandatory.
+- Lab courses: in-semester work ~75%, semester-end test ~25%.
+- Grading scale: AP/AA=10, AB=9, BB=8, BC=7, CC=6, CD=5, DD=4 (passing; DD is minimum pass); FF/FR/DX=0 (fail); PP/NP for non-credit courses; AU for audit; W=withdrawn; II/DR are placeholders. FF allows one re-exam chance (capped at DD if passed); if the re-exam is skipped or failed, FF converts to FR.
+- SPI = credit-weighted average of grade points for a semester (FR courses count as zero).
+- CPI = credit-weighted average of grade points across all semesters to date; recalculated once backlog courses are cleared.
+- Minimum CPI for continuation/graduation is 4.0 (2022 batch onwards; 6.0 for earlier batches).
+
+6. PERFORMANCE REQUIREMENTS
+- Degree conferred at annual convocation once all courses/seminars/projects are completed, dues paid, no pending indiscipline case; transcript shows only CPI, no class/division (CPI x10 can be used as a notional percentage).
+- Discontinuation: a student is required to leave the programme if they get 2+ FR grades in a semester, or if their CPI falls below 4.0 (2022 batch onwards; 6.0 earlier) at the end of any semester.
+- Academic Probation: offered proactively by PGAPEC to eligible low-CPI/SPI students (or on student appeal via DPGC); a one-time, one-semester exercise; the student must bring course-work CPI back to >= 4.0 by the end of the probation semester.
+
+7. VACATION / LEAVE RULES
+2-year M.Sc. students get winter vacation (December) and a 15-day summer break in their first year, plus up to 30 additional leave days (beyond public holidays) across the programme. Conference/seminar travel leave: up to 5 working days per semester with stipend, approved by the Head of the Academic Unit; anything beyond that needs Dean (AP) approval via the DPGC.
+
+8. MISCELLANEOUS
+Faculty Advisers guide registration, approve course loads, monitor weak/backlog students, and are the contact point for parents/guardians on performance matters. Course numbering: UG courses are generally 101-499 (or 1001-4999 if exhausted); PG (Masters) courses 500-799 (or 5001-7999); PhD courses 800-999; common UG+PG courses 600-699. GC101 (Gender in the Workplace) is common across UG, PG, and PhD.

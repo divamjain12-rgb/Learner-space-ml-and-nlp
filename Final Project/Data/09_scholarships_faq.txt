@@ -1,0 +1,31 @@
+SOURCE: IIT Bombay Frequently Asked Questions (FAQs) for Institute Scholarships — UG and M.Sc. programmes (Academic Office, Version 3, released 15 July 2024)
+URL: https://www.iitb.ac.in/newacadhome/FAQ_Scholarship.pdf
+
+TYPES OF SCHOLARSHIPS/FEE RELIEF
+UG students: Institute Merit-cum-Means Scholarship (MCM), Free Messing (for SC/ST students), Remission of Fees (income-based fee waiver for economically weaker students not covered elsewhere), Women Merit Scholarship (for eligible women students).
+M.Sc. students: Institute Merit-cum-Means Scholarship, Free Messing (SC/ST).
+Students apply through a single online interface (my.iitb.ac.in); the most beneficial scholarship for which they're eligible is automatically awarded — there's no separate application needed for fee remission vs. MCM, and being over a 25% MCM quota doesn't cause rejection, just reassessment by the Scholarship Committee.
+
+APPLICATION CYCLE
+Scholarship applications are generally invited twice per academic year: in the Autumn round (covering the full academic year — both Autumn and Spring) and the Spring round (covering Spring only). A student awarded MCM/Remission/Free Messing in the Autumn round does not need to reapply for Spring. If a student didn't apply in a given year, they remain eligible to apply fresh the following year — there's no "one-time-only" restriction, but a fresh application is required every academic year (no multi-year blanket award).
+
+KEY RESTRICTIONS
+- A student cannot hold two Institute scholarships (or a Named scholarship plus MCM/Remission/Free Messing) simultaneously.
+- A student in receipt of any Institute scholarship cannot also receive an external scholarship; they must surrender one and submit proof (via ugscholarships@iitb.ac.in) to retain the other.
+- Interest subvention under the Vidyalaxmi scheme cannot be combined with MCM/Remission of fees.
+- An FR/DR/DX/W grade does NOT bar a student from scholarship eligibility.
+- No offline applications are accepted under any circumstance, including after a missed deadline.
+- Applications cannot be edited after final submission.
+
+CPI CRITERIA
+For the Autumn scholarship round, the CPI from the previous full academic year is used; for the Spring round, the CPI from the Autumn semester of that same academic year is used. New entrants are assessed on their qualifying entrance exam rank in their first year, switching to CPI-based assessment from the second year onward.
+
+INCOME CERTIFICATE RULES (for means-based awards)
+- ITR acknowledgements are no longer accepted as of Autumn 2024 onward — a formal Income Certificate from a Competent State/UT Authority is required.
+- The certificate must cover the financial year preceding the academic year of application, be issued on or after 1 April of the calendar year in which that academic year begins, and remain valid through 31 March of that academic year.
+- If both parents are deceased: an affidavit plus both death certificates are required. If one parent is deceased: that parent's income certificate plus the other's death certificate.
+- Divorced-parent cases are handled case-by-case by the Scholarship Committee.
+- The parent's name on the certificate must exactly match Academic Office records; discrepancies must be resolved with the Scholarship Unit before applying.
+
+OTHER FINANCIAL SUPPORT ROUTES (for students ineligible for listed scholarships)
+Interest subvention under the Vidyalaxmi scheme (contact: Academic Section), the Student Benevolent Fund (contact: Office of Dean, Student Affairs), and the IIT Bombay Alumni Association's Financial Aid Programme.

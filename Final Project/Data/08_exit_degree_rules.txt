@@ -1,0 +1,20 @@
+SOURCE: IIT Bombay Rules for Award of Exit Degree from M.Tech./MPP/MS by Research/Dual Degree (Master's+PhD) and Ph.D. Programme (Academic Office, updated 1 July 2024)
+URL: https://acad.iitb.ac.in/files/ExitDegreemtechphd_0.pdf
+
+OVERVIEW
+Exit with a degree is not a right of the student — it happens either when the postgraduate committee recommends it (citing sufficient work done, or on grounds of unsatisfactory progress) or the student requests it. No separate student application is needed once the postgraduate committee recommends it; the PGAPEC approves and the student is automatically registered for the lower exit degree.
+
+ELIGIBILITY TABLE
+- M.Tech./MPP/MS by Research student exiting to a PG Diploma (PGDIIT): requires 58 credits completed and a minimum CPI of 4.0; eligibility confirmed on PGAPEC's approval of the PGC's recommendation.
+- Ph.D. student exiting to M.S. by Research (any academic unit except HSS) or M.A. by Research (HSS department only): requires at least one year of residency in the PhD programme from the date of Confirmation of Ph.D. registration, and a minimum CPI of 6.0; eligibility is confirmed only after a successful viva-voce following dissertation submission, within 6 months of the exit degree's approval.
+
+PROCESS FOR PhD-TO-MASTERS EXIT
+On PGAPEC approval of the exit, the student's Ph.D. registration is terminated immediately, and they are deemed registered for the MS/MA by Research degree for the purpose of submitting a dissertation. Scholarship/Teaching Assistantship payment stops immediately on approval of exit. The student has up to 6 months to complete requirements and submit the dissertation; failure to do so within 6 months leads to termination of the exit-degree registration itself.
+
+EVALUATION PROCEDURE FOR THE EXIT DISSERTATION (MS/MA by Research)
+A 4-member committee is formed by the DPGC for the viva-voce: (i) Supervisor(s), (ii) Internal Examiner, (iii) External Examiner (or an additional Internal Examiner if none is available), (iv) a Chairperson — a Professor/Associate Professor from another academic unit or specialization (an Internal Examiner who is a Professor/Associate Professor may also serve as Chairperson with DPGC approval). Students submit 4 soft-bound dissertation copies to the department, preferably 2 weeks before the defence. The dissertation must be submitted electronically to the Central Library, and the signed submission form must reach the Academic Office within 1 month of a successful defence; late submission incurs a Rs 5000/month fine. Final transcripts/degree certificates are issued only after the dissertation is received.
+
+RELATED EXIT PATHWAYS (referenced but governed by separate documents)
+- Exit degree from a Dual Degree (M.Tech./MPP + Ph.D.) programme: separate rules apply (see the DDMPhDd document on the Academic Office site).
+- Exit degree from an MA + Ph.D. programme: separate rules apply (see the MA+Ph.D. Programme document on the Academic Office site).
+- This exit-degree pathway is distinct from the UG "Exit Degree" option described in the UG Rule Book (Section 9.4), which allows undergraduates to exit with a B.Sc.(Engg.)/equivalent after completing minimum credit and semester requirements.
